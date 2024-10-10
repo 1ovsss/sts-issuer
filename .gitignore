@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+remotes/
+tmp/
+*.pyc
+*.swo
+*.swl
+*.swn
+*.swp
+*.swm
+*.retry
+.DS_Store*
+export.sh
